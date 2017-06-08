@@ -1,7 +1,7 @@
 # Ashley Schauer
 
 ## Mod 4 Deliverables:
-* Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+* Cold Outreach
 * [Turing Portfolio](https://www.turing.io/alumni/ashley-schauer)
 * [Interview Reflection](https://gist.github.com/AELSchauer/647fd5db11906364c6c4f5c465055514)
 * [Job Search Action Plan](https://gist.github.com/AELSchauer/0f510d2a9271e0ecad06d79343c09b23)
