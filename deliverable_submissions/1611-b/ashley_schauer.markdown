@@ -4,7 +4,7 @@
 * Link to overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
 * [Turing Portfolio](https://www.turing.io/alumni/ashley-schauer)
 * [Interview Reflection](https://gist.github.com/AELSchauer/647fd5db11906364c6c4f5c465055514)
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+* [Job Search Action Plan](https://gist.github.com/AELSchauer/0f510d2a9271e0ecad06d79343c09b23)
 
 ## Mod 3 Deliverables:
 
